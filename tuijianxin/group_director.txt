@@ -1,0 +1,21 @@
+Dear Admission Officer
+
+In response to Mr. Zheyu Jin's request of recommandation, I am writting to recommend Mr. Zheyu Jin to your distinguished graduate education program. He has been working as a software engineer under my direct supervisation for 2 years. I'd like to talk about his unique characteristics based on my observation as his supervisor.
+
+The first time that I met him was at the job interiew. During the interview he impressed me with his enthusiasm and smartness which are rarely seen in his age. Plus his excellent performance in paper-based test, I was readily to take this young man to my team.
+
+Mr. Jin worked very hard from the beginning and learned practical matters very fast and before long he was able to work independently on porting projects at customer sides. Apart from the fact that he was the youngest engineer in the company at that time, his learning ability was above avarage.
+
+Besides his hardworking, he also demonstrated various skills, creative thinking and a curious mind. As an annecdote that I remember, he once came up with a notably efficient way to find C source header file depencencies of our product in Android source code with several GCC options and tens of lines of shell script. The whole team still benefits form increased efficiency brought by this new approach devised by him. He also spontaneously gives well-thought seminars inside the company on topics which interests him and some of them called for intensive research on various materials. Currently Mr. Jin is working on our new product as an important developner.
+ 
+I also assess Mr. Jin as an affable person who can work well in multi-cultural working environment. Currently my team members are from 4 countries and have diverse cultual backgroudns. Mr. Jin himself is also a foreiner here in South Korea but is getting along well with engineers from different cultures. His affable personality has contributed to the unity of my team. 
+
+Judring from what I know about Mr. Jin, I am confident that he can be a successful student in your graduate program. It will be highly appreciated if he can received favorable considaration for admission to your program. If you want to know more about him, please don¡¯t hesitate to contact with me.
+
+Best Regards
+
+Sung-Hyun Yoo
+Platform Group Director
+Nexstreaming Corporation
+(+82)02-2194-5342
+sunghyun.yoo@nexstreaming.com

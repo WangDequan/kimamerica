@@ -1,0 +1,16 @@
+Respected Professor:
+
+I am pleased to write this letter of recommendation to recommend Mr. Zheyu Jin to your distinguished graduate program. He has been working as a software engineer under my direct supervision for 2 years. I'd like to talk about his unique characteristics based on my observation as his supervisor.
+The first time that I met him was at the job interview. During the interview he impressed me with his enthusiasm and smartness. Plus his excellent performance in paper-based test, I was glad to take this young man to my team.
+Mr. Jin worked very hard from the beginning and learned practical matters very fast and soon he was able to work independently on porting projects at customer sides. Apart from the fact that he was the youngest engineer in the company at that time, his learning ability was above average.
+Besides his hardworking, he also demonstrated various skills, creative thinking and a curious mind. As an anecdote that I remember, he once came up with a notably efficient way to find C source header file dependencies of our product in Android source code with several GCC options and tens of lines of shell script. The whole team still benefits from increased efficiency brought by this new approach devised by him. He also spontaneously gives well-thought seminars inside the company on topics which interests him and some of them called for intensive research on various materials. 
+I also regard Mr. Jin as an affable person who can work smoothly with people from different cultures. Currently my team members are from 4 different countries and have diverse cultural backgrounds. Mr. Jin himself is also a foreigner here in South Korea but is getting along well with people from other cultures. His affable personality is certainly a plus to the unity of my team. 
+When it comes to shortcomings, like many young people in their first job, Mr. Jin sometimes may deviate from the main issue because of paying over attention to details. Probably this was because he tried to control every detail of work and also lacked certain working experience. I believe he can overcome this inclination. 
+Judging from what I know about Mr. Jin, I am confident that he can be a successful student in your graduate program. It will be highly appreciated if he can received favorable consideration for admission.
+
+Best Regards
+Sung-Hyun Yoo
+Platform Group Director
+Nexstreaming Corporation
+(+82)02-2194-5342
+sunghyun.yoo@nexstreaming.com
