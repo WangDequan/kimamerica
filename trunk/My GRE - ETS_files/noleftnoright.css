@@ -1,0 +1,14 @@
+/* -- -- -- -- -- -- --
+ * noleft.css
+ * -- -- -- -- -- -- --
+ */
+
+div#navigation-contents { display: none; }
+div#right-content { display: none; }
+div#page-contents div.container-20 { display: none; }
+div#center-content { width: 940px; }
+
+/*	-- -- -- -- -- -- --
+ * fin
+ * -- -- -- -- -- -- --
+ */
