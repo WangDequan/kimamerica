@@ -1,0 +1,46 @@
+/* -- -- -- -- -- -- --
+ * print.css
+ * -- -- -- -- -- -- --
+ */
+
+div#site-nav { display: none; }
+div#ets-logo { float: left; }
+div#section-navigation { display: none; }
+div#audience-header { display: none; }
+div#corp-links { display: none; }
+
+ul { page-break-inside: avoid; }
+
+thead { display: table-header-group; }
+tfoot { display: table-footer-group; }
+tr { page-break-inside: avoid; }
+
+table.score_report { border: 1px solid black; margin-bottom: 2em; width: 100%; border-collapse: collapse; }
+table.score_report th { border: 1px solid black; text-align: left; vertical-align: top; white-space: nowrap; }
+table.score_report td { border: 1px solid black; vertical-align: top; }
+
+
+body {
+	background: white;
+	font: normal normal normal 1em/1.2em arial, helvetica, sans-serif !important;
+	}
+
+div#wrapper-center,
+div#wrapper-content,
+div#main_contents,
+div#page-contents,
+div#center-content {
+	width: auto !important;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	float: none !important;
+	color: black !important;
+	background: white;
+	font-size: 12pt;
+	}
+
+/*	-- -- -- -- -- -- --
+ * fin
+ * -- -- -- -- -- -- --
+ */
