@@ -1,4 +1,0 @@
-Ronald Parr		방향이 맞다. http://www.cs.duke.edu/~parr/iros12.pdf goo.d
-Carlo Tomasi	최근의 논문이 젤 많다. 아마, 돈이 많겠지.
-Vincent Conitzer	경제학과 CS 결합.
-
