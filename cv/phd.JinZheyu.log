@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.12.14)  10 JAN 2013 00:17
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.9.26)  10 JAN 2013 21:54
 entering extended mode
  %&-line parsing enabled.
 **phd.JinZheyu.tex
@@ -63,9 +63,15 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
 
-Overfull \hbox (22.50551pt too wide) in paragraph at lines 35--36
-[]\OT1/cmr/m/n/10 Developed Nex-Player SDK ver-i-fi-ca-tion server and client(S
-ervlet,Tomcat,Mysql,JSON
+Overfull \hbox (13.29718pt too wide) in paragraph at lines 33--34
+[]\OT1/cmr/m/n/10 Ported em-bed-ded Nex-Player to var-i-ous Sam-sung and LG an-
+droid de-vices.(C/C++) 
+ []
+
+
+Overfull \hbox (44.31111pt too wide) in paragraph at lines 35--36
+[]\OT1/cmr/m/n/10 Developed Nex-Player SDK ver-i-fi-ca-tion server and client(J
+ava Servlet,Tomcat,Mysql,JSON
  []
 
 
@@ -88,11 +94,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--58
 ] [2] ) 
 Here is how much of TeX's memory you used:
  306 strings out of 495062
- 3344 string characters out of 1182643
- 52442 words of memory out of 3000000
+ 3344 string characters out of 1182644
+ 53442 words of memory out of 3000000
  3563 multiletter control sequences out of 15000+50000
  5252 words of font info for 19 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 29i,8n,19p,201b,181s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,8n,19p,205b,181s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on phd.JinZheyu.dvi (2 pages, 3804 bytes).
+Output written on phd.JinZheyu.dvi (2 pages, 3844 bytes).
